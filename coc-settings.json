@@ -1,0 +1,17 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "python",
+    "javascript",
+    "html",
+    "json",
+    "css"
+  ],
+  "powershell.integratedConsole.showOnStartup": false,
+  "javascript.suggest.completeFunctionCalls": true,
+  "javascript.suggest.classMemberSnippets.enabled": true,
+  "html.autoClosingTags": true,
+  "vimlsp.diagnostic.enable": true,
+  "html.format.enable": true,
+  "html.enable": true,
+  "vimlsp.debug": true
+}
