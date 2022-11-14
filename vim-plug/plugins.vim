@@ -14,4 +14,5 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'kyazdani42/nvim-web-devicons'
     Plug 'hoob3rt/lualine.nvim'
     Plug 'sonph/onehalf', { 'rtp': 'vim' }
+    Plug 'ryanoasis/vim-devicons'
 call plug#end()
