@@ -21,6 +21,7 @@ map <A--> :resize -5 <enter>
 map <A-+> :resize +5 <enter>
 map <C-s> :w <enter>
 map <A-1> :%s/foo/bar/g
+map <F8> :w <enter> :!python %:p <enter>
 inoremap <expr> <TAB> coc#pum#visible() ? coc#pum#confirm() : "\<TAB>"
 
 let g:python3_host_prog = expand('C:\Users\ivanm\AppData\Local\Microsoft\WindowsApps\python3.10.exe')
