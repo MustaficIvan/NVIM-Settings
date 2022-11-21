@@ -323,12 +323,13 @@ exe "let s:fg_base0     = ' "   .   "guifg=".s:gui_base0    .   " ctermfg=".s:te
 exe "let s:fg_base1     = ' "   .   "guifg=".s:gui_base1    .   " ctermfg=".s:term_base1     .   "'"
 exe "let s:fg_base2     = ' "   .   "guifg=".s:gui_base2    .   " ctermfg=".s:term_base2     .   "'"
 exe "let s:fg_base3     = ' "   .   "guifg=".s:gui_base3    .   " ctermfg=".s:term_base3     .   "'"
-exe "let s:fg_green     = ' "   .   "guifg=".s:gui_green    .   " ctermfg=".s:term_green     .   "'"
-exe "let s:fg_yellow    = ' "   .   "guifg=".s:gui_yellow   .   " ctermfg=".s:term_yellow    .   "'"
+exe "let s:fg_green     = ' "   .   "guifg="'#30c98d'    .   " ctermfg=".s:term_green     .   "'"
+exe "let s:fg_yellow    = ' "   .   "guifg="'#e6b856'   .   " ctermfg=".s:term_yellow    .   "'"
 exe "let s:fg_orange    = ' "   .   "guifg=".s:gui_orange   .   " ctermfg=".s:term_orange    .   "'"
-exe "let s:fg_red       = ' "   .   "guifg=".s:gui_red      .   " ctermfg=".s:term_red       .   "'"
+exe "let s:fg_red       = ' "   .   "guifg="'#C6EBC9'      .   " ctermfg=".s:term_red       .   "'"
 exe "let s:fg_magenta   = ' "   .   "guifg=".s:gui_magenta  .   " ctermfg=".s:term_magenta   .   "'"
-exe "let s:fg_violet    = ' "   .   "guifg=".s:gui_violet   .   " ctermfg=".s:term_violet    .   "'"
+exe "let s:fg_violet    = ' "   .   "guifg="'#0077c2'   .   " ctermfg=".s:term_violet    .   "'"
+
 exe "let s:fg_blue      = ' "   .   "guifg=".s:gui_blue     .   " ctermfg=".s:term_blue      .   "'"
 exe "let s:fg_cyan      = ' "   .   "guifg=".s:gui_cyan     .   " ctermfg=".s:term_cyan      .   "'"
 
