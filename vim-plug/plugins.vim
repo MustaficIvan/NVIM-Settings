@@ -15,6 +15,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'hoob3rt/lualine.nvim'
     Plug 'sonph/onehalf', { 'rtp': 'vim' }
     Plug 'ryanoasis/vim-devicons'
+    " Scoop install zig
     Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
     Plug 'nvim-lua/plenary.nvim'
     Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.0' }
