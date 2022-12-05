@@ -325,7 +325,7 @@ exe "let s:fg_base2     = ' "   .   "guifg=".s:gui_base2    .   " ctermfg=".s:te
 exe "let s:fg_base3     = ' "   .   "guifg=".s:gui_base3    .   " ctermfg=".s:term_base3     .   "'"
 exe "let s:fg_green     = ' "   .   "guifg="'#65AB5F'    .   " ctermfg=".s:term_green     .   "'"
 exe "let s:fg_yellow    = ' "   .   "guifg="'#C6EBC9'   .   " ctermfg=".s:term_yellow    .   "'"
-exe "let s:fg_orange    = ' "   .   "guifg=".s:gui_orange   .   " ctermfg=".s:term_orange    .   "'"
+exe "let s:fg_orange    = ' "   .   "guifg="'#E86F4A'   .   " ctermfg=".s:term_orange    .   "'"
 exe "let s:fg_red       = ' "   .   "guifg="'#e6b856'      .   " ctermfg=".s:term_red       .   "'"
 exe "let s:fg_magenta   = ' "   .   "guifg=".s:gui_magenta  .   " ctermfg=".s:term_magenta   .   "'"
 exe "let s:fg_violet    = ' "   .   "guifg="'#0077c2'   .   " ctermfg=".s:term_violet    .   "'"
