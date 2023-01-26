@@ -317,7 +317,7 @@ exe "let s:fg_none      = ' "   .   "guifg=".s:gui_none     .   " ctermfg=".s:te
 exe "let s:fg_back      = ' "   .   "guifg=".s:gui_back     .   " ctermfg=".s:term_back      .   "'"
 exe "let s:fg_base03    = ' "   .   "guifg=".s:gui_base03   .   " ctermfg=".s:term_base03    .   "'"
 exe "let s:fg_base02    = ' "   .   "guifg=".s:gui_base02   .   " ctermfg=".s:term_base02    .   "'"
-exe "let s:fg_base01    = ' "   .   "guifg=".s:gui_base01   .   " ctermfg=".s:term_base01    .   "'"
+exe "let s:fg_base01    = ' "   .   "guifg="'#88b8a6'       .   " ctermfg=".s:term_base01    .   "'"
 exe "let s:fg_base00    = ' "   .   "guifg=".s:gui_base00   .   " ctermfg=".s:term_base00    .   "'"
 exe "let s:fg_base0     = ' "   .   "guifg=".s:gui_base0    .   " ctermfg=".s:term_base0     .   "'"
 exe "let s:fg_base1     = ' "   .   "guifg=".s:gui_base1    .   " ctermfg=".s:term_base1     .   "'"
